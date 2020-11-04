@@ -15,6 +15,7 @@
 		},
 		"annotations": [],
 		"type": "CosmosDbSqlApiCollection",
+		"schema": {},
 		"typeProperties": {
 			"collectionName": {
 				"value": "@dataset().container",

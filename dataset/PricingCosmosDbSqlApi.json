@@ -10,6 +10,7 @@
 		},
 		"annotations": [],
 		"type": "CosmosDbSqlApiCollection",
+		"schema": {},
 		"typeProperties": {
 			"collectionName": "pricingtest2"
 		}

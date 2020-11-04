@@ -11,7 +11,7 @@
 				"frequency": "Month",
 				"interval": 3,
 				"startTime": "2020-05-08T05:34:00Z",
-				"endTime": "2020-05-13T00:54:59.752Z",
+				"endTime": "2020-05-13T00:54:59Z",
 				"timeZone": "UTC",
 				"schedule": {
 					"minutes": [
